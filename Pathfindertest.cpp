@@ -1,8 +1,3 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: findPathTest.cpp
-*/
 
 #include <iostream>
 #include <fstream>

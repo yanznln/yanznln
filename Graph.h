@@ -1,8 +1,4 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: Graph.h
-*/
+
 #include<cstdlib>
 #include<utility>
 #include"Vertex.h"

@@ -1,9 +1,4 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 4
-file: QuadraticProbing.cpp
-description global function for the quadraticProbing.h file
-*/
+
 
 //#include "LinearProbing.hpp"
 #include "QuadraticProbing.h"

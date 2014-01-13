@@ -1,8 +1,4 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: QuadraticProbing.h
-*/
+
 #ifndef QUADRATIC_PROBING_H
 #define QUADRATIC_PROBING_H
 

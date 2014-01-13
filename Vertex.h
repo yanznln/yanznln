@@ -1,8 +1,4 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: Vertex.h
-*/
+
 
 #ifndef VERTEX_H
 #define VERTEX_H

@@ -1,8 +1,4 @@
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: BinaryHeap.h
-*/
+
 
 #ifndef BINARY_HEAP_H
 #define BINARY_HEAP_H

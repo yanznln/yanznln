@@ -1,6 +1,4 @@
 
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
 File: Graph traversal implementation using Dijkstra's algorithm
 
 Assignmnet5

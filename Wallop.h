@@ -1,11 +1,4 @@
 
-/*
-Group members, Yan Zhen Lin, Cameron Rivera, Gabriella Voll, Sidney Thelusma, Vladislav Mayzlin
-Assignment 5
-File: Wallop.h
-*/
-
-
 #ifndef WHALLOP_HPP
 #define WHALLOP_HPP
 #include <vector>
